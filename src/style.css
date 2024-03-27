@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 50px;
+}
+
+#container {
+  text-align: center;
+}
+
+#title {
+  font-size: 24px;
+}
+
+#description {
+  font-size: 18px;
+}
+
+.tooltip {
+  position: absolute;
+  background: #f4f4f4;
+  padding: 10px;
+  border: #333 solid 1px;
+  border-radius: 5px;
+  opacity: 0;
+}
